@@ -4,7 +4,7 @@
 
 First fork the repository. From there in your CLI/ terminal
 
-`git clone https://github.com/your-username-here/robofriends.git`
+`git clone https://github.com/your-username-here/Robofriends-redux.git`
 
 - Once the app is opened in your IDE, use the below commands to start project
 
