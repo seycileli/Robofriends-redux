@@ -1,4 +1,4 @@
-# robofriends
+# robofriends-redux
 
 # To users who wish to clone
 
