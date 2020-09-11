@@ -1,6 +1,6 @@
 # robofriends-redux
 
-# To users who wish to clone
+# If you wish to clone
 
 First fork the repository. From there in your CLI/ terminal
 
